@@ -21,3 +21,7 @@
 * 学习类的继承体系，元类，isa指针的概念，参考[这张继承图](http://7xr7dp.com1.z0.glb.clouddn.com/iOS_inherit_chain.jpg)
 * 学习对象初始化相关规则，designate和secondary init方法的区别，写一个简单demo
 * 理解一个视图中多个view，controller的层次关系(superView，parentViewController)，如何通过指针找到其中的一个view或controller
+
+### 2017年11月24日 
+* 学习iOS多线程的实现方式(pthread, NSThread, NSOperation, GCD)，了解同步异步，串行并行，主线程，更新UI在主线程等概念，常用gcd函数以及功能
+* 总结iOS中对象(实例)的通信方式(属性，持有实例，初始化传入，KVO，通知，代理，block，target-action)
