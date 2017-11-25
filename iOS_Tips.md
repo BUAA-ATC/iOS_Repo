@@ -25,3 +25,8 @@
 ### 2017年11月24日 
 * 学习iOS多线程的实现方式(pthread, NSThread, NSOperation, GCD)，了解同步异步，串行并行，主线程，更新UI在主线程等概念，常用gcd函数以及功能
 * 总结iOS中对象(实例)的通信方式(属性，持有实例，初始化传入，KVO，通知，代理，block，target-action)
+
+### 2017年11月25日-2017年11月26日
+* 学习iOS中的分类(Category)，扩展(Extention)
+* 了解iOS中数据持久化方式，CoreData了解就行
+* 了解copy，mutable copy的区别
